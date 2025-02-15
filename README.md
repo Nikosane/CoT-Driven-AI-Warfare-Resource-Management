@@ -1,0 +1,1 @@
+# CoT-Driven-AI-Warfare-Resource-Management
