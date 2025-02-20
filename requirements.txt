@@ -1,0 +1,4 @@
+ollama
+numpy
+logging
+json
